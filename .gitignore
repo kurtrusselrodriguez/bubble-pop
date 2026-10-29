@@ -1,0 +1,6 @@
+__pycache__/
+build/
+dist/
+*.py[cod]
+bubble_accounts.json
+bubblepop_error.log

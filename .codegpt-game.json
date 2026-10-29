@@ -1,0 +1,7 @@
+{
+  "name": "bubble-pop-camera",
+  "engine": "generic",
+  "launch": { "cmd": "py", "args": ["BUBBLEPOP"] },
+  "log": { "stdout": true },
+  "sourceRoots": ["."]
+}
